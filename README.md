@@ -9,17 +9,20 @@
 ---
 
 ## 🛠️ Tech Stack  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)  
-![VSCode](https://img.shields.io/badge/VSCode-0078D7?style=for-the-badge&logo=visual-studio-code)  
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions)
+- Python  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python)  
+- C++     ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B)  
+- C       ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c)  
+- Haskell ![Haskell](https://img.shields.io/badge/Haskell-5294E2?style=flat-square&logo=haskell)  
+- Java    ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java)  
+- Go      ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go)  
+- TypeScript ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript)  
+- JavaScript ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript)  
 
 ---
 
 ## 📈 GitHub Stats  
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sonikatam&show_icons=true&theme=default" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sonikatam&layout=compact&theme=default" />
 </div>
 
 ---
