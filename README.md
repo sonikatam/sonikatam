@@ -37,6 +37,6 @@
 
 ## 📫 How to reach me  
 - ✉️ Email: [sonikatam0@gmail.com](mailto:sonikatam0@gmail.com)  
-- 🔗 LinkedIn: [linkedin.com/in/sonikatam](https://linkedin.com/in/sonikatam)  
+- 🔗 LinkedIn: [linkedin.com/in/sonikat](https://linkedin.com/in/sonikat)  
 
 ---
