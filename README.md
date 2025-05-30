@@ -23,11 +23,6 @@
 
 ---
 
-## 📅 My Activity  
-<img src="https://ghchart.rshah.org/sonikatam" alt="Contribution chart" />
-
----
-
 ## 📫 How to reach me  
 - ✉️ Email: [sonikatam0@gmail.com](mailto:sonikatam0@gmail.com)  
 - 🔗 LinkedIn: [linkedin.com/in/sonikat](https://linkedin.com/in/sonikat)  
