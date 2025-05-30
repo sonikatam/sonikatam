@@ -23,13 +23,6 @@
 
 ---
 
-## 📈 GitHub Stats  
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sonikatam&show_icons=true&theme=default" />
-</div>
-
----
-
 ## 📅 My Activity  
 <img src="https://ghchart.rshah.org/sonikatam" alt="Contribution chart" />
 
