@@ -4,7 +4,7 @@
 ---
 
 ## 🚀 What I’m working on  
-- 🔗 [Personal Website](https://sonikatam.github.io)  
+- 🔗 [Reel It - platform where your most recent movie adventures with your friends](https://github.com/sonikatam/ReelIt)
 
 ---
 
